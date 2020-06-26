@@ -3,8 +3,5 @@
     { "id": 1, "email": "quinten.ceuppens@gmail.com", "password":"secret" },
     { "id": 2, "email": "quinten@gmail.com", "password":"secret" },
     { "id": 3, "email": "ceuppens@gmail.com", "password":"secret" }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
